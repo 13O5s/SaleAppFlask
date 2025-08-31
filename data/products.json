@@ -1,0 +1,56 @@
+[{
+  "id": 1,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 100000,
+  "category_id": 1
+},
+{
+  "id": 1,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 200000,
+  "category_id": 2
+},
+{
+  "id": 2,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 100000,
+  "category_id": 1
+},
+{
+  "id": 3,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 100000,
+  "category_id": 1
+},
+{
+  "id": 4,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 300000,
+  "category_id": 3
+},
+{
+  "id": 5,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 100000,
+  "category_id": 1
+},
+{
+  "id": 6,
+  "name": "iPhone 7 plus",
+  "description": "Apple, 32GB, RAM: 3GB, ios13",
+  "product_img": "https://res.cloudinary.com/djrsoszwg/image/upload/v1756548998/cld-sample-5.jpg",
+  "price": 200000,
+  "category_id": 2
+}]
