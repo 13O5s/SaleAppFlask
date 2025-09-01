@@ -6,3 +6,10 @@
 body{
  background-color: lightblue;
 }
+
+nav{
+background-color: black;
+}
+a{
+color: white !important;
+}

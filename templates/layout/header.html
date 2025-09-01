@@ -1,0 +1,20 @@
+<nav class="navbar navbar-expand-sm bg-dark">
+
+    <div class="container-fluid">
+        <!-- Links -->
+        <ul class="navbar-nav me-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/">BÁN HÀNG TRỰC TUYẾN</a>
+            </li>
+            {% for cate in categories %}
+            <li class="nav-item">
+                <a class="nav-link" href="/?category_id={{cate.id}}">{{cate.name}}</a>
+            </li>
+            {%endfor%}
+        </ul>
+        <form class="d-flex" action="/">
+            <input class="form-control me-2" name="keyword" type="text" placeholder="Nhập từ khóa ...">
+            <button class="btn btn-primary" type="submit">Tìm</button>
+        </form>
+    </div>
+</nav>
